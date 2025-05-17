@@ -2,7 +2,7 @@
 
 This interactive Excel dashboard analyzes hotel booking data from 2015 to 2017, focusing on total bookings, cancellations, room preferences, guest types, and monthly trends. The visualization helps identify patterns in cancellations and guest behavior, enabling data-driven decisions in hospitality management.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Visualizations/Dashboard.png)
 
 ---
 
